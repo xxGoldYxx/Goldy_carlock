@@ -7,6 +7,9 @@ Installation
   
 How to use
 
+1. You have to save vehicle - /ulozit
+2. /lock or keybind
+
 /ulozit - Save current vehicle.
 
 /lock   - Lock saved vehicle.
