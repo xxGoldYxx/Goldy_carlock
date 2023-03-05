@@ -8,4 +8,5 @@ Installation
 How to use
 
 /ulozit - Save current vehicle.
+
 /lock   - Lock saved vehicle.
