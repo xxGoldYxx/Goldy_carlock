@@ -10,3 +10,6 @@ How to use
 /ulozit - Save current vehicle.
 
 /lock   - Lock saved vehicle.
+
+
+The code is in Czech language, you have to translate it into yours.
